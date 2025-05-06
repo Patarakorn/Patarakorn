@@ -1,5 +1,5 @@
 # 💫 About Me:
-🍔 I'm working on Measure Mather, a Harvard research project aimed at predicting calorie waste from food trays in the dining hall<br>🍅 I'm learning about Next.js<br>⚡ Fun fact: I used to be an actor and model in Thailand
+🍔 I'm working on Measure Mather, a Harvard research project aimed at predicting calorie waste from food trays in the dining hall<br>🍅 I'm learning about Computer Vision<br>⚡ Fun fact: I used to be an actor and model in Thailand
 
 
 ## 🌐 Socials:
