@@ -1,11 +1,8 @@
 # 💫 About Me:
 📊 I'm working on... 
-- **Debatabase-TH**: an open-sourced project designed to manage and organize information related to the debating scene in Thailand
-- **HDAG Intro Call**: an AI research tool to match the club's past cases and prep important info before client calls
-  
-🧑‍💻 I'm currently interning at SCBX as an AI Engineer  
+- **Mato.**: stay tuned!
 
-🍅 I'm learning about Automatic Speech Recognition (ASR) models, Retrieval-augmented generation (RAG), Azure Containers, MongoDB, FastAPI, and Docker  
+🍅 I'm learning about Swift and ElysiaJS  
 
 ⚡ Fun fact: I used to be an actor and model in Thailand
 
